@@ -1,0 +1,15 @@
+14 21
+#####################
+#  %               G#
+# DDDDD  EDE   DDDDD#
+# D     EEDEE      D#
+# D    EEEDEEE    TD#
+# D T EEEEDEEEE    D#
+# D       DW       D#
+# D #############  D#
+# DII###########IIID#
+# DI             IID#
+# DI             IID#
+# DDD   ******   DDD#
+#                   #
+#####################

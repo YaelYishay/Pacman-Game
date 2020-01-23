@@ -1,0 +1,15 @@
+14 21
+EEEEEEEEEEEEEEEEEEEEE
+E                   E
+E %  ###     ###    E
+E   #  *#   #I  #   E
+E  # G  *# #I    #  E
+E  #     *#I     #  E
+E   #           #  TE
+E    #    S    #    E
+E D   #  KKK  #    DE
+E DD   # KKK #    DDE
+E DDD   # K #    DDDE
+E DDDD   # #    DDDDE
+E         #         E
+EEEEEEEEEEEEEEEEEEEEE

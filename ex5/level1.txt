@@ -1,0 +1,15 @@
+14 21
+#####################
+#DDDDDDDDDDDDDDDDDDD#
+#                   #
+#III              **#
+#III          KK  **#
+#III  #      KKKK **#
+#    ###  @ KKEKK   #
+#   #####   KKEKK   #
+#  #######    EKK   #
+#   DDDDD      KK G #
+# T D   D      KK   #
+#   D E D   KKKKKKK #
+#   D % D   EEEEEEE #
+#####################

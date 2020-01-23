@@ -1,0 +1,15 @@
+14 21
+DDDDDDDDDDDDDDDDDDDDD
+D G    KKKKKKIII    D
+D EEEEE     IIIII   D
+DEE   EEE  II  II  TD
+DE  # # EE II   I   D
+DE       E     II   D
+DE #  #  E @  II    D
+DE      EE   II     D
+DEE ##  E   II      D
+D EE##EEE   IIIIIII D
+D   ##**    IIIIIII D
+D T ##**   ######## D
+D   ##**       %    D
+DDDDDDDDDDDDDDDDDDDDD
